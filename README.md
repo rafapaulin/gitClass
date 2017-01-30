@@ -9,3 +9,5 @@
 6. Adicionar modificaçeõs (git add)
 7. Fazer Commit (git commit)
 8. Mandar commit para o repositorio github (git push)
+
+--Tag Gerada: v0.1.1
